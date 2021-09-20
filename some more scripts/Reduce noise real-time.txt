@@ -1,0 +1,12 @@
+#noise window
+data = stream.read(10000)
+noise_sample = np.frombuffer(data, dtype=np.float32)
+
+loud_threshold = np.mean(np.abs(noise_sample)) * 10
+
+# Read chunk and load it into numpy array.
+data = stream.read(CHUNKSIZE)
+current_window = np.frombuffer(data, dtype=np.float32)
+    
+#Reduce noise real-time
+current_window = nr.reduce_noise(audio_clip=current_window, noise_clip=noise_sample, verbose=False)

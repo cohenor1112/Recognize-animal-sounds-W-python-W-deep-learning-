@@ -1,0 +1,26 @@
+Building an Audio Classifier:
+https://medium.com/@anonyomous.ut.grad.student/building-an-audio-classifier-f7c4603aa989
+
+Sound Event Classification: A to Z:
+https://towardsdatascience.com/sound-event-classification-using-machine-learning-8768092beafc
+
+Real-time Sound event classification:
+https://towardsdatascience.com/real-time-sound-event-classification-83e892cf187e
+
+How to apply machine learning and deep learning methods to audio analysis
+https://towardsdatascience.com/real-time-sound-event-classification-83e892cf187e
+
+Valerio Velardo - The Sound of AI:
+https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ
+
+How to use Google Colaboratory to clone a GitHub Repository to your Google Drive?
+https://medium.com/@ashwindesilva/how-to-use-google-colaboratory-to-clone-a-github-repository-e07cf8d3d22b
+
+Audio Cats and Dogs:
+https://www.kaggle.com/mmoreaux/audio-cats-and-dogs
+
+Environmental Sound Classification 50:
+https://www.kaggle.com/mmoreaux/environmental-sound-classification-50
+
+Why resample on load?
+https://librosa.org/blog/2019/07/17/resample-on-load/
